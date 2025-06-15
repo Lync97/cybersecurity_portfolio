@@ -16,7 +16,7 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 - [Objectifs a venir](#objectifs-a-venir)
 - [Remerciements](#remerciements)
 - [Licence](#licence)
-- [🇬🇧 Version anglaise](./README_en.md)
+- [🇬🇧 Version anglaise](../English_version/README_en.md)
 
 ---
 
@@ -161,7 +161,7 @@ Et merci à vous pour la visite de mon portfolio !
 
 ## 📄 Licence
 
-Ce portfolio est publié sous la [licence MIT](./LICENSE).  
+Ce portfolio est publié sous la [licence MIT](../LICENSE).  
 Vous êtes libre de l’utiliser ou de vous en inspirer, avec attribution.
 
 ---

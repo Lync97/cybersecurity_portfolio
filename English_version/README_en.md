@@ -16,7 +16,7 @@ This repository includes my _projects_, _certifications_, and skills developed t
 - [Upcoming Goals](#upcoming-goals)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
-- [🇫🇷 French Version](./README_fr.md)
+- [🇫🇷 French Version](../French_version/README_fr.md)
 
 ---
 
@@ -161,5 +161,5 @@ And thank you for visiting my portfolio!
 
 ## 📄 License
 
-This portfolio is published under the [MIT License](./LICENSE).  
+This portfolio is published under the [MIT License](../LICENSE).  
 Feel free to use or adapt it with attribution.
