@@ -55,71 +55,71 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 > Rapport d’incident impliquant un rançongiciel dans une clinique de santé aux États-Unis.
 
 - Outils : Aucun  
-- [Dossier du projet](./gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
-- [Le scénario](./gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Scenario.pdf)
-- [Le modèle utilisé](./gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Log_Template.pdf)
-- [Le rapport final](./gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
+- [Dossier du projet](../French_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
+- [Le scénario](../French_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Scenario.pdf)
+- [Le modèle utilisé](../French_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Log_Template.pdf)
+- [Le rapport final](../French_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
 
 ---
 
 ### 3. Etude de cas – Entreprise multimedia
 > Réponse à une attaque DDoS et application du NIST Cybersecurity Framework (CSF).
 
-- [Dossier du projet](./gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/)
-- [Le scénario](./gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_scenario.pdf)
-- [La réponse à l’incident](./gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_response.pdf)
+- [Dossier du projet](../French_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/)
+- [Le scénario](../French_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_scenario.pdf)
+- [La réponse à l’incident](../French_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_response.pdf)
 
 ---
 
 ### 4. Audit de securite – Botium Toys
 > Audit d’une entreprise fictive qui conçoit et vend des jouets.
 
-- [Dossier du projet](./Audit/Botium_Toys/)
-- [Le scénario](./Audit/Botium_Toys/Botium-toys_scenario.md)
-- [Le rapport d’audit](./Audit/Botium_Toys/Botium_Toys_cybersecurity_audit_fictive_company.pdf)
-- [Mémo pour les parties prenantes](./Audit/Botium_Toys/Botium_Toys_memo_for_stakeholders.pdf)
+- [Dossier du projet](../French_version/Audit/Botium_Toys/)
+- [Le scénario](../French_version/Audit/Botium_Toys/Botium-toys_scenario.md)
+- [Le rapport d’audit](../French_version/Audit/Botium_Toys/Botium_Toys_cybersecurity_audit_fictive_company.pdf)
+- [Mémo pour les parties prenantes](../French_version/Audit/Botium_Toys/Botium_Toys_memo_for_stakeholders.pdf)
 
 ---
 
 ### 5. Autorisations de fichiers – Linux
 > Mise à jour des autorisations et droits d’accès des fichiers sous Linux.
 
-- [Dossier du projet](./linux_and_sql/linux/)
-- [Documentation](./linux_and_sql/linux/relative_autorization_of_files_on_linux.pdf)
+- [Dossier du projet](../French_version/linux_and_sql/linux/)
+- [Documentation](../French_version/linux_and_sql/linux/relative_autorization_of_files_on_linux.pdf)
 
 ---
 
 ### 6. Script d'automatisation, d'archivage et de suppression  
 > Script Bash pour automatiser, archiver et supprimer la configuration d’un environnement de travail.
 
-- [Dossier du projet](./linux_and_sql/linux/Project_Initializer/)
-- [Le scénario](./linux_and_sql/linux/Project_Initializer/README.md)
-- [Script d’automatisation](./linux_and_sql/linux/Project_Initializer/project_initializer.sh)
-- [Script de suppression](./linux_and_sql/linux/Project_Initializer/remove_project_initializer.sh)
+- [Dossier du projet](../French_version/linux_and_sql/linux/Project_Initializer/)
+- [Le scénario](../French_version/linux_and_sql/linux/Project_Initializer/README.md)
+- [Script d’automatisation](../French_version/linux_and_sql/linux/Project_Initializer/project_initializer.sh)
+- [Script de suppression](../French_version/linux_and_sql/linux/Project_Initializer/remove_project_initializer.sh)
 
 ---
 
 ### 7. Application de filtres SQL
 > Utilisation de filtres SQL pour exécuter des tâches de sécurité.
 
-- [Dossier du projet](./linux_and_sql/sql/)
-- [Requête SQL](./linux_and_sql/sql/apply_sql_filters.pdf)
+- [Dossier du projet](../French_version/linux_and_sql/sql/)
+- [Requête SQL](../French_version/linux_and_sql/sql/apply_sql_filters.pdf)
 
 ---
 
 ### 8. Mise à jour de fichier avec Python
 > Création d’un algorithme Python pour mettre à jour le fichier `allow_list.txt` en supprimant des adresses IP obsolètes.
 
-- [Dossier du projet](./python/)
-- [L’algorithme](./python/mettre_a_jour_un_fichier_python_avec_un_algorithme.pdf)
+- [Dossier du projet](../French_version/python/)
+- [L’algorithme](../French_version/python/mettre_a_jour_un_fichier_python_avec_un_algorithme.pdf)
 
 ---
 
 ### 9. CV
 > Mes CV
 
-- [Version française](./cv/cv_fr.pdf)
-- [Version anglaise](./cv/cv_en.pdf)
+- [Version française](../French_version/cv/cv_fr.pdf)
+- [Version anglaise](../French_version/cv/cv_en.pdf)
 
 ---
 

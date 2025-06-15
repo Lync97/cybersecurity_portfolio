@@ -55,71 +55,71 @@ This repository includes my _projects_, _certifications_, and skills developed t
 > Ransomware response report involving a healthcare provider.
 
 - Tools: None  
-- [Project folder](./gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
-- [Scenario](./gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Scenario.pdf)
-- [Template used](./gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Log_Template.pdf)
-- [Final report](./gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
+- [Project folder](../English_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
+- [Scenario](../English_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Scenario.pdf)
+- [Template used](../English_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Log_Template.pdf)
+- [Final report](../English_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
 
 ---
 
 ### 3. Incident Case Study – Multimedia Company
 > Response to a DDoS attack and application of the NIST Cybersecurity Framework (CSF).
 
-- [Project folder](./gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/)
-- [Scenario](./gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_scenario.pdf)
-- [Response report](./gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_response.pdf)
+- [Project folder](../English_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/)
+- [Scenario](../English_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_scenario.pdf)
+- [Response report](../English_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_response.pdf)
 
 ---
 
 ### 4. Security Audit – Botium Toys
 > Security audit for a fictional US toy company.
 
-- [Project folder](./Audit/Botium_Toys/)
-- [Scenario](./Audit/Botium_Toys/Botium-toys_scenario.md)
-- [Audit report](./Audit/Botium_Toys/Botium_Toys_cybersecurity_audit_fictive_company.pdf)
-- [Stakeholder memo](./Audit/Botium_Toys/Botium_Toys_memo_for_stakeholders.pdf)
+- [Project folder](../English_version/Audit/Botium_Toys/)
+- [Scenario](../English_version/Audit/Botium_Toys/Botium-toys_scenario.md)
+- [Audit report](../English_version/Audit/Botium_Toys/Botium_Toys_cybersecurity_audit_fictive_company.pdf)
+- [Stakeholder memo](../English_version/Audit/Botium_Toys/Botium_Toys_memo_for_stakeholders.pdf)
 
 ---
 
 ### 5. File Permissions – Linux
 > Updating file access and permission rules on Linux.
 
-- [Project folder](./linux_and_sql/linux/)
-- [Documentation](./linux_and_sql/linux/relative_autorization_of_files_on_linux.pdf)
+- [Project folder](../English_version/linux_and_sql/linux/)
+- [Documentation](../English_version/linux_and_sql/linux/relative_autorization_of_files_on_linux.pdf)
 
 ---
 
 ### 6. `.txt` File Retrieval Script
 > Bash script to automate, archive, and delete configuration setups for a team environment.
 
-- [Project folder](./linux_and_sql/linux/Project_Initializer/)
-- [Scenario](./linux_and_sql/linux/Project_Initializer/README.md)
-- [Automation script](./linux_and_sql/linux/Project_Initializer/project_initializer.sh)
-- [Deletion script](./linux_and_sql/linux/Project_Initializer/remove_project_initializer.sh)
+- [Project folder](../English_version/linux_and_sql/linux/Project_Initializer/)
+- [Scenario](../English_version/linux_and_sql/linux/Project_Initializer/README.md)
+- [Automation script](../English_version/linux_and_sql/linux/Project_Initializer/project_initializer.sh)
+- [Deletion script](../English_version/linux_and_sql/linux/Project_Initializer/remove_project_initializer.sh)
 
 ---
 
 ### 7. SQL Filter Application
 > Using SQL filters for security-related tasks.
 
-- [Project folder](./linux_and_sql/sql/)
-- [Query document](./linux_and_sql/sql/apply_sql_filters.pdf)
+- [Project folder](../English_version/linux_and_sql/sql/)
+- [Query document](../English_version/linux_and_sql/sql/apply_sql_filters.pdf)
 
 ---
 
 ### 8. Python Script – File Update
 > Python algorithm to update `allow_list.txt` by removing outdated IP addresses.
 
-- [Project folder](./python/)
-- [Algorithm description](./python/update_a_python_file_with_an_algorithm.pdf)
+- [Project folder](../English_version/python/)
+- [Algorithm description](../English_version/python/update_a_python_file_with_an_algorithm.pdf)
 
 ---
 
 ### 9. CV
 > My resume in both languages
 
-- [English version](./cv/cv_en.pdf)
-- [French version](./cv/cv_fr.pdf)
+- [English version](../English_version/cv/cv_en.pdf)
+- [French version](../English_version/cv/cv_fr.pdf)
 
 ---
 
