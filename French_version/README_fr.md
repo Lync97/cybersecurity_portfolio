@@ -9,11 +9,11 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 
 ## 📚 Sommaire
 
-- [À propos de moi](#à-propos-de-moi)
-- [Compétences techniques](#compétences-techniques)
+- [À propos de moi](#a-propos-de-moi)
+- [Compétences techniques](#competences-techniques)
 - [Projets principaux](#projets-principaux)
 - [Certifications](#certifications)
-- [Objectifs à venir](#objectifs-à-venir)
+- [Objectifs à venir](#objectifs-a-venir)
 - [Remerciements](#remerciements)
 - [Licence](#licence)
 - [🇬🇧 Version anglaise](./README_en.md)
