@@ -55,10 +55,10 @@ This repository includes my _projects_, _certifications_, and skills developed t
 > Ransomware response report involving a healthcare provider.
 
 - Tools: None  
-- [Project folder](../English_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
-- [Scenario](../English_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Scenario.pdf)
-- [Template used](../English_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Log_Template.pdf)
-- [Final report](../English_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
+- [Project folder](../English_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/)
+- [Scenario](../English_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/Incident_Scenario.pdf)
+- [Template used](../English_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/Incident_Log_Template.pdf)
+- [Final report](../English_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
 
 ---
 
@@ -89,7 +89,7 @@ This repository includes my _projects_, _certifications_, and skills developed t
 
 ---
 
-### 6. `.txt` File Retrieval Script
+### 6. Team Environment Script
 > Bash script to automate, archive, and delete configuration setups for a team environment.
 
 - [Project folder](../English_version/linux_and_sql/linux/Project_Initializer/)
@@ -118,8 +118,8 @@ This repository includes my _projects_, _certifications_, and skills developed t
 ### 9. CV
 > My resume in both languages
 
-- [English version](../English_version/cv/cv_en.pdf)
-- [French version](../English_version/cv/cv_fr.pdf)
+- [English version](../cv/cv_en.pdf)
+- [French version](../cv/cv_fr.pdf)
 
 ---
 

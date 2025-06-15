@@ -55,19 +55,19 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 > Rapport d’incident impliquant un rançongiciel dans une clinique de santé aux États-Unis.
 
 - Outils : Aucun  
-- [Dossier du projet](../French_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
-- [Le scénario](../French_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Scenario.pdf)
-- [Le modèle utilisé](../French_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Log_Template.pdf)
-- [Le rapport final](../French_version/gestion_incident/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
+- [Dossier du projet](../French_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/)
+- [Le scénario](../French_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/Scenario_incident.pdf)
+- [Le modèle utilisé](../French_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/Modele_de_journal_incident.pdf)
+- [Le rapport final](../French_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/Rapport_de_reponse_aux_incidents.pdf)
 
 ---
 
 ### 3. Etude de cas – Entreprise multimedia
 > Réponse à une attaque DDoS et application du NIST Cybersecurity Framework (CSF).
 
-- [Dossier du projet](../French_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/)
-- [Le scénario](../French_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_scenario.pdf)
-- [La réponse à l’incident](../French_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_response.pdf)
+- [Dossier du projet](../French_version/gestion_incident/L_etude_de_cas_d_incident_d_une_entreprise_multimedia/)
+- [Le scénario](../French_version/gestion_incident/L_etude_de_cas_d_incident_d_une_entreprise_multimedia/Scenario_d_un_incident_de_cybersecurite.pdf)
+- [La réponse à l’incident](../French_version/gestion_incident/L_etude_de_cas_d_incident_d_une_entreprise_multimedia/Reponse_a_un_incident_de_cybersecurite.pdf)
 
 ---
 
@@ -75,35 +75,35 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 > Audit d’une entreprise fictive qui conçoit et vend des jouets.
 
 - [Dossier du projet](../French_version/Audit/Botium_Toys/)
-- [Le scénario](../French_version/Audit/Botium_Toys/Botium-toys_scenario.md)
-- [Le rapport d’audit](../French_version/Audit/Botium_Toys/Botium_Toys_cybersecurity_audit_fictive_company.pdf)
-- [Mémo pour les parties prenantes](../French_version/Audit/Botium_Toys/Botium_Toys_memo_for_stakeholders.pdf)
+- [Le scénario](../French_version/Audit/Botium_Toys/scenario-botium-toys.md)
+- [Le rapport d’audit](../French_version/Audit/Botium_Toys/audit_cybersecurite_de_Botium_Toys_entreprise_fictif.pdf)
+- [Mémo pour les parties prenantes](../French_version/Audit/Botium_Toys/Botium_Toys_memo_pour_les_parties_prenantes.pdf)
 
 ---
 
 ### 5. Autorisations de fichiers – Linux
 > Mise à jour des autorisations et droits d’accès des fichiers sous Linux.
 
-- [Dossier du projet](../French_version/linux_and_sql/linux/)
-- [Documentation](../French_version/linux_and_sql/linux/relative_autorization_of_files_on_linux.pdf)
+- [Dossier du projet](../French_version/linux_&_sql/linux/)
+- [Documentation](../French_version/linux_&_sql/linux/Gestion_des_permissions_relatives_des_fichiers_sous_linux.pdf)
 
 ---
 
 ### 6. Script d'automatisation, d'archivage et de suppression  
 > Script Bash pour automatiser, archiver et supprimer la configuration d’un environnement de travail.
 
-- [Dossier du projet](../French_version/linux_and_sql/linux/Project_Initializer/)
-- [Le scénario](../French_version/linux_and_sql/linux/Project_Initializer/README.md)
-- [Script d’automatisation](../French_version/linux_and_sql/linux/Project_Initializer/project_initializer.sh)
-- [Script de suppression](../French_version/linux_and_sql/linux/Project_Initializer/remove_project_initializer.sh)
+- [Dossier du projet](../French_version/linux_&_sql/linux/Initialiseur_de_projet/)
+- [Le scénario](../French_version/linux_&_sql/linux/Initialiseur_de_projet/README.md)
+- [Script d’automatisation](../French_version/linux_&_sql/linux/Initialiseur_de_projet/Initialiseur_de_projet.sh)
+- [Script de suppression](../French_version/linux_&_sql/linux/Initialiseur_de_projet/supprimer_l_initialiseur_du_projet.sh)
 
 ---
 
 ### 7. Application de filtres SQL
 > Utilisation de filtres SQL pour exécuter des tâches de sécurité.
 
-- [Dossier du projet](../French_version/linux_and_sql/sql/)
-- [Requête SQL](../French_version/linux_and_sql/sql/apply_sql_filters.pdf)
+- [Dossier du projet](../French_version/linux_&_sql/sql/)
+- [Requête SQL](../French_version/linux_&_sql/sql/appliquer_des_filtres_sql.pdf)
 
 ---
 
@@ -118,8 +118,8 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 ### 9. CV
 > Mes CV
 
-- [Version française](../French_version/cv/cv_fr.pdf)
-- [Version anglaise](../French_version/cv/cv_en.pdf)
+- [Version française](../cv/cv_fr.pdf)
+- [Version anglaise](../cv/cv_en.pdf)
 
 ---
 
