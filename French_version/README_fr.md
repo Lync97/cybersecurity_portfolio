@@ -9,18 +9,18 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 
 ## 📚 Sommaire
 
-- [À propos de moi](#a-propos-de-moi)
-- [Compétences techniques](#competences-techniques)
+- [A propos de moi](#a-propos-de-moi)
+- [Competences techniques](#competences-techniques)
 - [Projets principaux](#projets-principaux)
 - [Certifications](#certifications)
-- [Objectifs à venir](#objectifs-a-venir)
+- [Objectifs a venir](#objectifs-a-venir)
 - [Remerciements](#remerciements)
 - [Licence](#licence)
 - [🇬🇧 Version anglaise](./README_en.md)
 
 ---
 
-## 📜 À propos de moi
+## 📜 A propos de moi
 
 - 🎓 Étudiant en Sciences Informatiques à l’Université d’État d’Haïti (Licence – soutenance en attente)
 - 📂 Certifications Google : Cybersecurity & Data Analytics
@@ -30,7 +30,7 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 
 ---
 
-## ⚙️ Compétences techniques
+## ⚙️ Competences techniques
 
 | Domaine          | Compétences principales |
 |------------------|-------------------------|
@@ -51,7 +51,7 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 
 ---
 
-### 2. Gestion d’incident – Clinique américaine
+### 2. Gestion d’incident – Clinique americaine
 > Rapport d’incident impliquant un rançongiciel dans une clinique de santé aux États-Unis.
 
 - Outils : Aucun  
@@ -62,7 +62,7 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 
 ---
 
-### 3. Étude de cas – Entreprise multimédia
+### 3. Etude de cas – Entreprise multimedia
 > Réponse à une attaque DDoS et application du NIST Cybersecurity Framework (CSF).
 
 - [Dossier du projet](./gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/)
@@ -71,7 +71,7 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 
 ---
 
-### 4. Audit de sécurité – Botium Toys
+### 4. Audit de securite – Botium Toys
 > Audit d’une entreprise fictive qui conçoit et vend des jouets.
 
 - [Dossier du projet](./Audit/Botium_Toys/)
@@ -89,7 +89,7 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 
 ---
 
-### 6. Script de récupération automatique de fichiers `.txt`
+### 6. Script d'automatisation, d'archivage et de suppression  
 > Script Bash pour automatiser, archiver et supprimer la configuration d’un environnement de travail.
 
 - [Dossier du projet](./linux_and_sql/linux/Project_Initializer/)
@@ -123,7 +123,7 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 
 ---
 
-## 📂 Projets open-source *(à venir)*
+## 📂 Projets open-source *(a venir)*
 
 > Je suis en train d’explorer plusieurs projets open-source en cybersécurité, et je prévois de contribuer prochainement dans des domaines comme :
 >
@@ -144,7 +144,7 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 
 ---
 
-## 📈 Objectifs à venir
+## 📈 Objectifs a venir
 
 - Développer des outils personnalisés de détection d’intrusion  
 - Approfondir Python, Bash scripting et automatisation  
