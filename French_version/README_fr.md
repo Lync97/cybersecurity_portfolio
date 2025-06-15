@@ -16,7 +16,7 @@ Ce dépôt regroupe mes _projets_, _certifications_ et compétences acquises lor
 - [Objectifs à venir](#objectifs-à-venir)
 - [Remerciements](#remerciements)
 - [Licence](#licence)
-- [🇬🇧 Version anglaise](./README.md)
+- [🇬🇧 Version anglaise](./README_en.md)
 
 ---
 

@@ -7,7 +7,7 @@ Bienvenue dans mon **portefeuille de cybersécurité** !
 
 ## 🌐 Choose your language / Choisissez votre langue
 
-- 🇬🇧 [English Version](./English_version/README.md)
+- 🇬🇧 [English Version](./English_version/README_en.md)
 - 🇫🇷 [Version Française](./French_version/README_fr.md)
 
 ---
