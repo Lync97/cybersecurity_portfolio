@@ -130,8 +130,8 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 ### 10. CV
 > Mes CV
 
-- [Version française](../cv/cv_fr.pdf)
 - [Version anglaise](../cv/cv_en.pdf)
+- [Version française](../cv/cv_fr.pdf)
 
 ---
 

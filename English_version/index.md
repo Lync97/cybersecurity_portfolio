@@ -8,16 +8,29 @@ I am **Lyncold Stephensky CHERY**, passionate about **information security**, **
 
 ---
 
+<!-- ### Methodology and Tools
+
+Before importing the files into RStudio, I installed all necessary packages (see [Methodology and Tools](#methodology-and-tools)). -->
+
 ## 📚 Table of Contents
 
-- [About Me](#about-me)
+- [## About Me](#about-me)
+- [### Technical Skills](#technical-skills)
+- [### Main Projects](#main-projects)
+- [### Certifications](#certifications)
+- [### Upcoming Goals](#upcoming-goals)
+- [### Acknowledgments](#acknowledgments)
+- [### License](#license)
+- [🇫🇷 ### French Version](../French_version/index.md)
+
+<!-- - [About Me](#about-me)
 - [Technical Skills](#technical-skills)
 - [Main Projects](#main-projects)
 - [Certifications](#certifications)
 - [Upcoming Goals](#upcoming-goals)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
-- [🇫🇷 French Version](../French_version/index.md)
+- [🇫🇷 French Version](../French_version/index.md) -->
 
 ---
 
@@ -33,7 +46,7 @@ I am **Lyncold Stephensky CHERY**, passionate about **information security**, **
 
 ---
 
-## ⚙️ Technical Skills
+### ⚙️ Technical Skills
 
 | Area             | Key Skills |
 |------------------|------------|
