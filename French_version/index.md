@@ -23,7 +23,7 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 <a id="about-me"></a>
 
-## 👤 About Me
+## 📜 À propos de moi
 
 - 🎓 Diplômé en Sciences Informatiques de l’Université d’État d’Haïti (licence – mémoire en attente)
 - 🇹🇷 Étudiant actuellement la langue turque à l’Université d’Istanbul
@@ -37,7 +37,7 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 <a id="technical-skills"></a>
 
-## ⚙️ Technical Skills
+## ⚙️ Competences techniques
 
 | Domaine          | Compétences principales |
 |------------------|-------------------------|
@@ -51,7 +51,7 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 <a id="main-projects"></a>
 
-## 📁 Main Projects
+## 📁 Projets principaux
 
 ### 1. Profil professionnel
 > Mon profil professionnel en tant qu’analyste cybersécurité
@@ -156,7 +156,7 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 <a id="certifications"></a>
 
-## 🎓 Certifications 
+## 🎓 Certifications
 
 - ✔️ [Certificat professionnel Google Cybersecurity (2025)](https://www.credly.com/badges/3d6c1eb5-7afb-4141-a447-eccecd228f99)  
 - ✔️ [Certificat Google Data Analytics (2025)]()  
@@ -166,7 +166,7 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 <a id="upcoming-goals"></a>
 
-## 📈 Upcoming Goals
+## 📈 Objectifs a venir
 
 - Développer des outils personnalisés de détection d’intrusion  
 - Approfondir Python, Bash scripting et automatisation  
@@ -176,7 +176,7 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 <a id="acknowledgments"></a>
 
-## 🙏 Acknowledgments
+## 🙏 Remerciements
 
 Merci aux formateurs, mentors et collègues qui ont soutenu ma progression.  
 Et merci à vous pour la visite de mon portfolio !
@@ -185,7 +185,7 @@ Et merci à vous pour la visite de mon portfolio !
 
 <a id="license"></a>
 
-## 📄 License
+## 📄 Licence
 
 Ce portfolio est publié sous la [licence MIT](../LICENSE).  
 Vous êtes libre de l’utiliser ou de vous en inspirer, avec attribution.
