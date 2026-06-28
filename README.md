@@ -1,16 +1,38 @@
-# Welcome / Bienvenue
+# Lyncold Stephensky CHERY – Cybersecurity Portfolio
 
-Welcome to my **Cybersecurity Portfolio**!  
-Bienvenue dans mon **portefeuille de cybersécurité** !
+Welcome to my **Cybersecurity Portfolio**.
+
+Bienvenue dans mon **portefeuille de cybersécurité**.
 
 ---
 
 ## 🌐 Choose your language / Choisissez votre langue
 
-- 🇬🇧 [English Version](./English_version/README_en.md)
-- 🇫🇷 [Version Française](./French_version/README_fr.md)
+- 🇬🇧 [English Version](./English_version/index.md)
+- 🇫🇷 [Version Française](./French_version/index.md)
 
 ---
 
-Find projects, certifications, and technical documents related to cybersecurity.  
-Trouvez des projets, certifications et documents techniques liés à la cybersécurité.
+## 📂 About this repository
+
+This repository contains my cybersecurity projects, technical documentation, certifications, and practical work related to:
+
+- 🔐 Cybersecurity
+- 🛡️ Defensive & Offensive Security
+- 🐧 Linux Administration
+- 🗃️ Database Management
+- 🐍 Python Automation
+- 📊 Data Analysis
+
+Ce dépôt contient mes projets en cybersécurité, mes documentations techniques, mes certifications et mes travaux pratiques liés à :
+
+- 🔐 Cybersécurité
+- 🛡️ Sécurité défensive et offensive
+- 🐧 Administration Linux
+- 🗃️ Gestion des bases de données
+- 🐍 Automatisation Python
+- 📊 Analyse de données
+
+---
+
+📄 **Portfolio:** [Open Portfolio](./index.md)

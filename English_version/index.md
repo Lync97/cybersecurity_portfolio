@@ -1,9 +1,10 @@
 # Cybersecurity Portfolio
 
-Welcome to my **Cybersecurity Portfolio**. This repository contains all of my professional and technical work in the cybersecurity field.
+Welcome to my **Cybersecurity Portfolio**.
 
-I am **Lyncold Stephensky CHERY**, passionate about _information security_, _data analysis_, and _innovative technologies_.  
-This repository includes my _projects_, _certifications_, and skills developed through _training_, _internships_, and _personal initiatives_.
+This repository presents my professional and technical work in cybersecurity, including projects, certifications, and practical skills developed through training, academic work, and personal initiatives.
+
+I am **Lyncold Stephensky CHERY**, passionate about **information security**, **data analysis**, **database management**, and **innovative technologies**.
 
 ---
 
@@ -16,16 +17,18 @@ This repository includes my _projects_, _certifications_, and skills developed t
 - [Upcoming Goals](#upcoming-goals)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
-- [🇫🇷 French Version](../French_version/README_fr.md)
+- [🇫🇷 French Version](../French_version/index.md)
 
 ---
 
 ## 👤 About Me
 
-- 🎓 Computer Science student at the State University of Haiti (Bachelor – thesis pending)
+- 🎓 Computer Science graduate from the State University of Haiti (Bachelor's degree – thesis pending)
+- 🇹🇷 Currently studying Turkish language at Istanbul University
+- 🎓 Türkiye Scholarships student | Prospective Master's student at Istanbul Technical University
 - 📂 Google Certifications: Cybersecurity & Data Analytics
-- 🧠 Interests: offensive & defensive security, tech watch, Linux, networking
-- 📍 Limonade, Haiti | 📧 cherylyncoldstephensky@gmail.com  
+- 🧠 Interests: Offensive & Defensive Security, Threat Analysis, Linux, Networking, and Technology Watch
+- 📍 Istanbul, Türkiye | 📧 cherylyncoldstephensky@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lyncold-stephensky-chery) | [GitHub](https://github.com/Lync97)
 
 ---
@@ -47,7 +50,7 @@ This repository includes my _projects_, _certifications_, and skills developed t
 ### 1. Professional Profile
 > My Cyber Analyst professional profile.
 
-- [View the profile](./profil-professionnel/Profile_profesionnel-Lyncold_Stephensky_CHERY.pdf)
+- [View the profile](./professional_profile/Profile_profesionnel-Lyncold_Stephensky_CHERY.pdf)
 
 ---
 
@@ -55,67 +58,76 @@ This repository includes my _projects_, _certifications_, and skills developed t
 > Ransomware response report involving a healthcare provider.
 
 - Tools: None  
-- [Project folder](../English_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/)
-- [Scenario](../English_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/Incident_Scenario.pdf)
-- [Template used](../English_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/Incident_Log_Template.pdf)
-- [Final report](../English_version/gestion_incident/%20Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
+- [Project folder](./incident_response/Ransomware_Incident_Clinic_US_2025/)
+- [Scenario](./incident_response/Ransomware_Incident_Clinic_US_2025/Incident_Scenario.pdf)
+- [Template used](./incident_response/Ransomware_Incident_Clinic_US_2025/Incident_Log_Template.pdf)
+- [Final report](./incident_response/Ransomware_Incident_Clinic_US_2025/Incident_Response_Report.pdf)
 
 ---
 
 ### 3. Incident Case Study – Multimedia Company
 > Response to a DDoS attack and application of the NIST Cybersecurity Framework (CSF).
 
-- [Project folder](../English_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/)
-- [Scenario](../English_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_scenario.pdf)
-- [Response report](../English_version/gestion_incident/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_response.pdf)
+- [Project folder](./incident_response/the_incident_case_study_of_a_enterprise_multimedia/)
+- [Scenario](./incident_response/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_scenario.pdf)
+- [Response report](./incident_response/the_incident_case_study_of_a_enterprise_multimedia/cyber_security_incident_response.pdf)
 
 ---
 
 ### 4. Security Audit – Botium Toys
 > Security audit for a fictional US toy company.
 
-- [Project folder](../English_version/Audit/Botium_Toys/)
-- [Scenario](../English_version/Audit/Botium_Toys/Botium-toys_scenario.md)
-- [Audit report](../English_version/Audit/Botium_Toys/Botium_Toys_cybersecurity_audit_fictive_company.pdf)
-- [Stakeholder memo](../English_version/Audit/Botium_Toys/Botium_Toys_memo_for_stakeholders.pdf)
+- [Project folder](./audit/Botium_Toys/)
+- [Scenario](./audit/Botium_Toys/Botium-toys_scenario.md)
+- [Audit report](./audit/Botium_Toys/Botium_Toys_cybersecurity_audit_fictive_company.pdf)
+- [Stakeholder memo](./audit/Botium_Toys/Botium_Toys_memo_for_stakeholders.pdf)
 
 ---
 
 ### 5. File Permissions – Linux
 > Updating file access and permission rules on Linux.
 
-- [Project folder](../English_version/linux_and_sql/linux/)
-- [Documentation](../English_version/linux_and_sql/linux/relative_autorization_of_files_on_linux.pdf)
+- [Project folder](./linux_and_sql/linux/)
+- [Documentation](./linux_and_sql/linux/relative_autorization_of_files_on_linux.pdf)
 
 ---
 
 ### 6. Team Environment Script
 > Bash script to automate, archive, and delete configuration setups for a team environment.
 
-- [Project folder](../English_version/linux_and_sql/linux/Project_Initializer/)
-- [Scenario](../English_version/linux_and_sql/linux/Project_Initializer/README.md)
-- [Automation script](../English_version/linux_and_sql/linux/Project_Initializer/project_initializer.sh)
-- [Deletion script](../English_version/linux_and_sql/linux/Project_Initializer/remove_project_initializer.sh)
+- [Project folder](./linux_and_sql/linux/Project_Initializer/)
+- [Scenario](./linux_and_sql/linux/Project_Initializer/README.md)
+- [Automation script](./linux_and_sql/linux/Project_Initializer/project_initializer.sh)
+- [Deletion script](./linux_and_sql/linux/Project_Initializer/remove_project_initializer.sh)
 
 ---
 
 ### 7. SQL Filter Application
 > Using SQL filters for security-related tasks.
 
-- [Project folder](../English_version/linux_and_sql/sql/)
-- [Query document](../English_version/linux_and_sql/sql/apply_sql_filters.pdf)
+- [Project folder](./linux_and_sql/sql/)
+- [Query document](./linux_and_sql/sql/apply_sql_filters.pdf)
 
 ---
 
 ### 8. Python Script – File Update
 > Python algorithm to update `allow_list.txt` by removing outdated IP addresses.
 
-- [Project folder](../English_version/python/)
-- [Algorithm description](../English_version/python/update_a_python_file_with_an_algorithm.pdf)
+- [Project folder](./python/)
+- [Algorithm description](./python/update_a_python_file_with_an_algorithm.pdf)
 
 ---
 
-### 9. CV
+### 9. Cyclistic Case Study – Data Analytics
+
+> Data analysis case study developed as part of my Data Analytics training.
+> This project explores user behavior, data cleaning, analysis, and visualization using R and analytical methods.
+
+- 🔗 [GitHub Repository](https://github.com/Lync97/Cyclistic_Case_Study)
+
+---
+
+### 10. CV
 > My resume in both languages
 
 - [English version](../cv/cv_en.pdf)
@@ -139,7 +151,7 @@ This repository includes my _projects_, _certifications_, and skills developed t
 ## 🎓 Certifications
 
 - ✔️ [Google Cybersecurity Professional Certificate (2025)](https://www.credly.com/badges/3d6c1eb5-7afb-4141-a447-eccecd228f99)  
-- 🕓 Google Data Analytics Certificate *(in progress)*  
+- ✔️ [Google Data Analytics Professional Certificate (2025)]()  
 - 🎓 Bachelor’s in Computer Science *(pending thesis)*
 
 ---
@@ -163,3 +175,8 @@ And thank you for visiting my portfolio!
 
 This portfolio is published under the [MIT License](../LICENSE).  
 Feel free to use or adapt it with attribution.
+
+
+
+
+
