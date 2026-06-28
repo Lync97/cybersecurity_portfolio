@@ -21,7 +21,9 @@ I am **Lyncold Stephensky CHERY**, passionate about **information security**, **
 
 ---
 
-## 👤 About Me {#about-me}
+<a id="about-me"></a>
+
+## 👤 About Me
 
 - 🎓 Computer Science graduate from the State University of Haiti (Bachelor's degree – thesis pending)
 - 🇹🇷 Currently studying Turkish language at Istanbul University
@@ -33,7 +35,9 @@ I am **Lyncold Stephensky CHERY**, passionate about **information security**, **
 
 ---
 
-## ⚙️ Technical Skills {#technical-skills} 
+<a id="technical-skills"></a>
+
+## ⚙️ Technical Skills
 
 | Area             | Key Skills |
 |------------------|------------|
@@ -45,7 +49,9 @@ I am **Lyncold Stephensky CHERY**, passionate about **information security**, **
 
 ---
 
-## 📁 Main Projects {#main-projects} 
+<a id="main-projects"></a>
+
+## 📁 Main Projects
 
 ### 1. Professional Profile
 > My Cyber Analyst professional profile.
@@ -148,7 +154,9 @@ I am **Lyncold Stephensky CHERY**, passionate about **information security**, **
 
 ---
 
-## 🎓 Certifications {#certifications} 
+<a id="certifications"></a>
+
+## 🎓 Certifications 
 
 - ✔️ [Google Cybersecurity Professional Certificate (2025)](https://www.credly.com/badges/3d6c1eb5-7afb-4141-a447-eccecd228f99)  
 - ✔️ [Google Data Analytics Professional Certificate (2025)]()  
@@ -156,7 +164,9 @@ I am **Lyncold Stephensky CHERY**, passionate about **information security**, **
 
 ---
 
-## 📈 Upcoming Goals {#upcoming-goals} 
+<a id="upcoming-goals"></a>
+
+## 📈 Upcoming Goals
 
 - Build custom intrusion detection tools  
 - Deepen automation skills with Python & Bash  
@@ -164,14 +174,18 @@ I am **Lyncold Stephensky CHERY**, passionate about **information security**, **
 
 ---
 
-## 🙏 Acknowledgments {#acknowledgments} 
+<a id="acknowledgments"></a>
+
+## 🙏 Acknowledgments
 
 Thanks to the instructors, mentors, and peers who supported my journey.  
 And thank you for visiting my portfolio!
 
 ---
 
-## 📄 License {#license}
+<a id="license"></a>
+
+## 📄 License
 
 This portfolio is published under the [MIT License](../LICENSE).  
 Feel free to use or adapt it with attribution.
