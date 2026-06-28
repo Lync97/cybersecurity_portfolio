@@ -10,18 +10,20 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 ## 📚 Sommaire
 
-- [A propos de moi](#a-propos-de-moi)
-- [Competences techniques](#competences-techniques)
-- [Projets principaux](#projets-principaux)
+- [A propos de moi](#about-me)
+- [Competences techniques](#technical-skills)
+- [Projets principaux](#main-projects)
 - [Certifications](#certifications)
-- [Objectifs a venir](#objectifs-a-venir)
-- [Remerciements](#remerciements)
+- [Objectifs a venir](#upcoming-goals)
+- [Remerciements](#acknowledgments)
 - [Licence](#licence)
 - [🇬🇧 Version anglaise](../English_version/README_en.md)
 
 ---
 
-## 📜 À propos de moi
+<a id="about-me"></a>
+
+## 👤 About Me
 
 - 🎓 Diplômé en Sciences Informatiques de l’Université d’État d’Haïti (licence – mémoire en attente)
 - 🇹🇷 Étudiant actuellement la langue turque à l’Université d’Istanbul
@@ -33,7 +35,9 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 ---
 
-## ⚙️ Competences techniques
+<a id="technical-skills"></a>
+
+## ⚙️ Technical Skills
 
 | Domaine          | Compétences principales |
 |------------------|-------------------------|
@@ -45,7 +49,9 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 ---
 
-## 📁 Projets principaux
+<a id="main-projects"></a>
+
+## 📁 Main Projects
 
 ### 1. Profil professionnel
 > Mon profil professionnel en tant qu’analyste cybersécurité
@@ -148,7 +154,9 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 ---
 
-## 🎓 Certifications
+<a id="certifications"></a>
+
+## 🎓 Certifications 
 
 - ✔️ [Certificat professionnel Google Cybersecurity (2025)](https://www.credly.com/badges/3d6c1eb5-7afb-4141-a447-eccecd228f99)  
 - ✔️ [Certificat Google Data Analytics (2025)]()  
@@ -156,7 +164,9 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 ---
 
-## 📈 Objectifs a venir
+<a id="upcoming-goals"></a>
+
+## 📈 Upcoming Goals
 
 - Développer des outils personnalisés de détection d’intrusion  
 - Approfondir Python, Bash scripting et automatisation  
@@ -164,14 +174,18 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 
 ---
 
-## 🙏 Remerciements
+<a id="acknowledgments"></a>
+
+## 🙏 Acknowledgments
 
 Merci aux formateurs, mentors et collègues qui ont soutenu ma progression.  
 Et merci à vous pour la visite de mon portfolio !
 
 ---
 
-## 📄 Licence
+<a id="license"></a>
+
+## 📄 License
 
 Ce portfolio est publié sous la [licence MIT](../LICENSE).  
 Vous êtes libre de l’utiliser ou de vous en inspirer, avec attribution.
