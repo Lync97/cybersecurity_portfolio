@@ -8,33 +8,20 @@ I am **Lyncold Stephensky CHERY**, passionate about **information security**, **
 
 ---
 
-<!-- ### Methodology and Tools
-
-Before importing the files into RStudio, I installed all necessary packages (see [Methodology and Tools](#methodology-and-tools)). -->
-
 ## 📚 Table of Contents
 
 - [About Me](#about-me)
-- [Technical Skills](#technical-skills)
-- [### Main Projects](#main-projects)
-- [### Certifications](#certifications)
-- [Upcoming Goals](#upcoming-goals)
-- [### Acknowledgments](#acknowledgments)
-- [### License](#license)
-- [🇫🇷 ### French Version](../French_version/index.md)
-
-<!-- - [About Me](#about-me)
 - [Technical Skills](#technical-skills)
 - [Main Projects](#main-projects)
 - [Certifications](#certifications)
 - [Upcoming Goals](#upcoming-goals)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
-- [🇫🇷 French Version](../French_version/index.md) -->
+- [🇫🇷 French Version](../French_version/index.md)
 
 ---
 
-## 👤 About Me
+## 👤 About Me {#about-me}
 
 - 🎓 Computer Science graduate from the State University of Haiti (Bachelor's degree – thesis pending)
 - 🇹🇷 Currently studying Turkish language at Istanbul University
@@ -46,7 +33,7 @@ Before importing the files into RStudio, I installed all necessary packages (see
 
 ---
 
-### ⚙️ Technical Skills
+## ⚙️ Technical Skills {#technical-skills} 
 
 | Area             | Key Skills |
 |------------------|------------|
@@ -58,7 +45,7 @@ Before importing the files into RStudio, I installed all necessary packages (see
 
 ---
 
-## 📁 Main Projects
+## 📁 Main Projects {#main-projects} 
 
 ### 1. Professional Profile
 > My Cyber Analyst professional profile.
@@ -161,7 +148,7 @@ Before importing the files into RStudio, I installed all necessary packages (see
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications {#certifications} 
 
 - ✔️ [Google Cybersecurity Professional Certificate (2025)](https://www.credly.com/badges/3d6c1eb5-7afb-4141-a447-eccecd228f99)  
 - ✔️ [Google Data Analytics Professional Certificate (2025)]()  
@@ -169,7 +156,7 @@ Before importing the files into RStudio, I installed all necessary packages (see
 
 ---
 
-### 📈 Upcoming Goals
+## 📈 Upcoming Goals {#upcoming-goals} 
 
 - Build custom intrusion detection tools  
 - Deepen automation skills with Python & Bash  
@@ -177,14 +164,14 @@ Before importing the files into RStudio, I installed all necessary packages (see
 
 ---
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgments {#acknowledgments} 
 
 Thanks to the instructors, mentors, and peers who supported my journey.  
 And thank you for visiting my portfolio!
 
 ---
 
-## 📄 License
+## 📄 License {#license}
 
 This portfolio is published under the [MIT License](../LICENSE).  
 Feel free to use or adapt it with attribution.
