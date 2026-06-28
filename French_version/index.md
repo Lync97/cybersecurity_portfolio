@@ -17,7 +17,7 @@ Je suis **Lyncold Stephensky CHERY**, passionné par la **sécurité informatiqu
 - [Objectifs a venir](#upcoming-goals)
 - [Remerciements](#acknowledgments)
 - [Licence](#licence)
-- [🇬🇧 Version anglaise](../English_version/README_en.md)
+- [🇬🇧 Version anglaise](../English_version/index.md)
 
 ---
 
