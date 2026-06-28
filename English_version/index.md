@@ -14,11 +14,11 @@ Before importing the files into RStudio, I installed all necessary packages (see
 
 ## 📚 Table of Contents
 
-- [## About Me](#about-me)
-- [### Technical Skills](#technical-skills)
+- [About Me](#about-me)
+- [Technical Skills](#technical-skills)
 - [### Main Projects](#main-projects)
 - [### Certifications](#certifications)
-- [### Upcoming Goals](#upcoming-goals)
+- [Upcoming Goals](#upcoming-goals)
 - [### Acknowledgments](#acknowledgments)
 - [### License](#license)
 - [🇫🇷 ### French Version](../French_version/index.md)
@@ -169,7 +169,7 @@ Before importing the files into RStudio, I installed all necessary packages (see
 
 ---
 
-## 📈 Upcoming Goals
+### 📈 Upcoming Goals
 
 - Build custom intrusion detection tools  
 - Deepen automation skills with Python & Bash  
